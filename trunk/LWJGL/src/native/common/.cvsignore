@@ -13,3 +13,4 @@ org_lwjgl_openal_eax_EAXListenerProperties.h
 org_lwjgl_opengl_GLContext.h
 org_lwjgl_opengl_Pbuffer.h
 org_lwjgl_Sys.h
+org_lwjgl_opengl_Display.h
