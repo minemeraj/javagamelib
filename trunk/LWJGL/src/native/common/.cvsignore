@@ -9,3 +9,5 @@ org_lwjgl_opengl_GLContext.h
 org_lwjgl_opengl_Pbuffer.h
 org_lwjgl_Sys.h
 org_lwjgl_opengl_Display.h
+org_lwjgl_DefaultSysImplementation.h
+org_lwjgl_NativeSysImplementation.h
