@@ -1,2 +1,15 @@
 Debug
 Release
+org_lwjgl_input_Controller.h
+org_lwjgl_input_Cursor.h
+org_lwjgl_input_Keyboard.h
+org_lwjgl_input_Mouse.h
+org_lwjgl_openal_AL.h
+org_lwjgl_openal_ALC.h
+org_lwjgl_openal_eax_EAX.h
+org_lwjgl_openal_eax_EAX20.h
+org_lwjgl_openal_eax_EAXBufferProperties.h
+org_lwjgl_openal_eax_EAXListenerProperties.h
+org_lwjgl_opengl_GLContext.h
+org_lwjgl_opengl_Pbuffer.h
+org_lwjgl_Sys.h
