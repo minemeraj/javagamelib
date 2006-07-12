@@ -1,4 +1,0 @@
-.classpath *.class *.class~ *.java~ .nbattrs .project
-dist
-libs
-temp
